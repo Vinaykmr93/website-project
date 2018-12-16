@@ -5,7 +5,7 @@ import Router from 'vue-router';
 import Profile from '../home/Profile'
 import LoginPage from '../login/LoginPage'
 import RegisterPage from '../register/RegisterPage'
-import Newsfeed from '../news/Newsfeed'
+import Newsfeed from '../news/newsfeed'
 
 Vue.use(Router);
 
